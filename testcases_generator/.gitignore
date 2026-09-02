@@ -1,0 +1,4 @@
+.env
+qa_run/
+__pycache__/
+*.pyc
